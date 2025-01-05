@@ -9,7 +9,7 @@
     - Calculates their historical returns and standard deviations
     - Creates a scatter plot showing the risk-return tradeoff
     - Optionally adds the market portfolio (SPY) for reference
-5. Two-Asset Portfolio Analysis [TODO]
+5. Two-Asset Portfolio Analysis
     Make an interactive notebook that:
     - Takes any two tickers as input
     - Shows how different portfolio weights affect:
