@@ -9,7 +9,7 @@
     - Calculates their historical returns and standard deviations
     - Creates a scatter plot showing the risk-return tradeoff
     - Optionally adds the market portfolio (SPY) for reference
-5. Two-Asset Portfolio Analysis
+5. Two-Asset Portfolio Analysis [TODO]
     Make an interactive notebook that:
     - Takes any two tickers as input
     - Shows how different portfolio weights affect:
@@ -24,13 +24,13 @@
     - Plots how portfolio volatility decreases with each addition
     - Shows correlation matrix heat map
     - Demonstrates the "diversifiable vs non-diversifiable risk" concept
-7. Estimating Beta & CAPM Analysis
-8. Factor Model Analysis
-9. Market efficiency tests:
+7. Estimating Beta & CAPM Analysis [TODO]
+8. Factor Model Analysis [TODO]
+9. Market efficiency tests:  [TODO]
     - Test for post-earnings announcement drift
     - Look at momentum effects
     - Examine trading volume patterns
-10. Portfolio analysis:
+10. Portfolio analysis: [TODO]
     - Build efficient portfolios
     - Compare performance of value vs growth stocks
     - Analyze the impact of rebalancing
