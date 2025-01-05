@@ -1,5 +1,4 @@
-# Examples for finance python notebooks
-
+# Examples for Investment Management Python notebooks
 
 1. Market Structure Analysis
 2. Return Calculations and Statistics
