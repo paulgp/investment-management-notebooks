@@ -1,3 +1,11 @@
+# Instructions on how to use these notebooks in Google Colab
+
+1. Open Google Colab (https://colab.research.google.com/)
+2. Click on `File` -> `Open notebook`
+3. Go to the `GitHub` tab
+4. Enter the url (`https://github.com/paulgp/investment-management-notebooks`)
+5. Click on the notebook you want to open
+
 # Examples for Investment Management Python notebooks
 
 1. Market Structure Analysis
@@ -34,3 +42,4 @@
     - Build efficient portfolios
     - Compare performance of value vs growth stocks
     - Analyze the impact of rebalancing
+
